@@ -42,4 +42,12 @@ class Student
 
     end
 
+    def all_instructors
+        BoatingTest.all.select{
+            |boating_test| boating_test.student == self
+        }.map{
+            |boating_test| boating_test.instructor
+        }
+    end
+
 end

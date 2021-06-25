@@ -1,0 +1,12 @@
+
+[1mFrom:[0m /home/danielmekuriaw/Development/code/Mod1/ruby-oo-relationships-practice-boating-school-exercise/tools/console.rb:17 :
+
+    [1;34m12[0m: 
+    [1;34m13[0m: no_crashing = spongebob.add_boating_test([31m[1;31m"[0m[31mDon't Crash 101[1;31m"[0m[31m[0m, [31m[1;31m"[0m[31mpending[1;31m"[0m[31m[0m, puff)
+    [1;34m14[0m: power_steering_failure = patrick.add_boating_test([31m[1;31m"[0m[31mPower Steering 202[1;31m"[0m[31m[0m, [31m[1;31m"[0m[31mfailed[1;31m"[0m[31m[0m, puff)
+    [1;34m15[0m: power_steering_pass = patrick.add_boating_test([31m[1;31m"[0m[31mPower Steering 201[1;31m"[0m[31m[0m, [31m[1;31m"[0m[31mpassed[1;31m"[0m[31m[0m, krabs)
+    [1;34m16[0m: 
+ => [1;34m17[0m: binding.pry
+    [1;34m18[0m: [1;34m0[0m [1;34m#leave this here to ensure binding.pry isn't the last line[0m
+    [1;34m19[0m: 
+
